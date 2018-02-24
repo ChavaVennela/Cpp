@@ -1,2 +1,2 @@
-# Cpp
+# Pattern-Printing
 Pattern Printing
